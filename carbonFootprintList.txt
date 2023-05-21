@@ -1,0 +1,12 @@
+beef,27.0
+cheese,13.5
+eggs,4.5
+tomatoes,1.4
+chicken,6.9
+tuna,6.1
+lettuce,2.0
+lentils,0.9
+bread,0.5
+jeans,17.5
+smartphone,70
+laptop,300
